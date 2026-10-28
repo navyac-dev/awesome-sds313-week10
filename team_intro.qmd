@@ -12,6 +12,7 @@ format: html
 ```
 
 - Navya
+- Abhiram
 
 ## Team Visualizations
 
