@@ -11,7 +11,9 @@ format: html
      merge conflict. Resolve it together rather than one person overwriting the other. -->
 ```
 
-Roshan
+- Roshan
+- Navya
+- Abhiram
 
 ## Team Visualizations
 
